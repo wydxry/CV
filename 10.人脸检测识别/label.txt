@@ -19,7 +19,6 @@ predict_faces\anglababy\angelababy_49.jpg;0
 predict_faces\anglababy\angelababy_52.jpg;0
 predict_faces\anglababy\angelababy_55.jpg;0
 predict_faces\anglababy\angelababy_6.jpg;0
-predict_faces\anglababy\angelababy_9.jpg;0
 predict_faces\xiaoming\u=1346313909,3205505504&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=1415184005,3506550692&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=1761597832,2869863196&fm=26&gp=0.jpg;1
@@ -31,6 +30,7 @@ predict_faces\xiaoming\u=2664952130,3688085434&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=2891966301,1155076380&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=3273676457,370732127&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=3353520848,2265138280&fm=11&gp=0.jpg;1
+predict_faces\xiaoming\u=422030371,2218457288&fm=11&gp=0.jpg;1
 predict_faces\xiaoming\u=4233978890,1386602845&fm=26&gp=0.jpg;1
 predict_faces\xiaoming\u=564098480,3569739126&fm=11&gp=0.jpg;1
 predict_faces\xiaoming\u=667998865,159778460&fm=11&gp=0.jpg;1
